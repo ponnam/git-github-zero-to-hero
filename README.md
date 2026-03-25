@@ -114,7 +114,7 @@ Learning Git requires **practice**, so try the commands yourself instead of just
 
 The complete course is available on YouTube.
 
-(Playlist link will be added here)
+https://www.youtube.com/playlist?list=PLjMxtbg6Ze3xYXsteEcjrw0dLsThfdjEx
 
 ---
 
