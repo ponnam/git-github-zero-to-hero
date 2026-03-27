@@ -1,4 +1,4 @@
-# 🧪 Day 03 - Hands-on Lab (GitHub Account Creation)
+# 🧪 Day 04 - Hands-on Lab (GitHub Account Creation)
 
 In this hands-on session, we will:
 - Create a GitHub account

@@ -13,9 +13,9 @@ In this session, we will understand:
 
 ## 🎥 Watch the Full Video
 
-👉 https://your-youtube-video-link-here
+👉 Day03: https://youtu.be/xZsgpU_gsj8
+👉 Day04: https://youtu.be/TKeF-AhYbR8
 
-> 📌 Replace with your actual video link
 
 ---
 
