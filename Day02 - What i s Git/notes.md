@@ -110,31 +110,9 @@ Git works in **multiple stages**:
 Working Directory → Staging Area → Local Repository → Remote Repository  
     (edit)    (add)    (commit)    (push)
 
----
-
-# 🧠 Key Takeaways
-
-- Git is a **Distributed Version Control System**
-- It allows **fast, flexible, and safe collaboration**
-- Works both **offline and online**
-- Uses staging → commit → push workflow
-- Industry standard for modern development
-
 
 ---
 
-# 📂 Repository
-
-- A **repository (repo)** is your project tracked by Git
-- Stores:
-  - Files
-  - Complete history
-
-### Types:
-- Local Repository (your system)
-- Remote Repository (GitHub, GitLab)
-
----
 
 # 🖥️ Working Directory
 
@@ -185,3 +163,14 @@ Working Directory → Staging Area → Local Repository → Remote Repository
 - Enables team collaboration
 - Acts as a central/shared repository
 - Requires internet connection
+
+---
+
+
+# 🧠 Key Takeaways
+
+- Git is a **Distributed Version Control System**
+- It allows **fast, flexible, and safe collaboration**
+- Works both **offline and online**
+- Uses staging → commit → push workflow
+- Industry standard for modern development
