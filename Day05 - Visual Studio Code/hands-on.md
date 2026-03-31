@@ -98,3 +98,24 @@ Search and install the following:
 ### 6. Use Integrated Terminal
 
 Open terminal inside VS Code:
+
+- Perform basic Git commands
+```bash
+git --version
+git config --list
+git config --global --list
+```
+
+---
+
+## 🤝 Connect with Me
+
+If you have any questions, feedback, or need help, feel free to reach out:
+
+- 📧 Email: Ponnam.phani@gmail.com  
+- 💬 Telegram: @phani_ponnam  
+
+📢 Join Telegram for more updates and content:  
+https://t.me/thecloudlearn  
+
+I’d be happy to connect and help you 😊
