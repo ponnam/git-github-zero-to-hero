@@ -153,7 +153,7 @@ Happy learning!
 If you have any questions, feedback, or need help, feel free to reach out:
 
 - 📧 Email: Ponnam.phani@gmail.com  
-- 💬 Telegram (Personal): @phani_ponnam  
+- 💬 Telegram: @phani_ponnam  
 
 📢 Join Telegram for more updates and content:  
 https://t.me/thecloudlearn  
